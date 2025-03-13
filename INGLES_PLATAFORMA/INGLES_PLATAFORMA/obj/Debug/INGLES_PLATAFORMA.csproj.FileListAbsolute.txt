@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\INGLES_PLATAFORMA\INGLES_PLATAFORMA\bin\Debug\INGLES_PLATAFORMA.exe.config
+C:\Users\Usuario\source\repos\INGLES_PLATAFORMA\INGLES_PLATAFORMA\bin\Debug\INGLES_PLATAFORMA.exe
+C:\Users\Usuario\source\repos\INGLES_PLATAFORMA\INGLES_PLATAFORMA\bin\Debug\INGLES_PLATAFORMA.pdb
+C:\Users\Usuario\source\repos\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.Properties.Resources.resources
+C:\Users\Usuario\source\repos\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.exe
+C:\Users\Usuario\source\repos\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.pdb
+C:\Users\Usuario\source\repos\INGLES_PLATAFORMA\INGLES_PLATAFORMA\obj\Debug\INGLES_PLATAFORMA.Form1.resources
