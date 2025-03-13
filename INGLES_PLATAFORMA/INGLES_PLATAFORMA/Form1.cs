@@ -55,8 +55,10 @@ namespace INGLES_PLATAFORMA
             if (txtUsuario.Text == "")
             {
                 txtUsuario.Text = "N° DOCUMENTO";
-                txtUsuario.ForeColor = Color.MintCream;
+                
             }
         }
+
+
     }
 }
